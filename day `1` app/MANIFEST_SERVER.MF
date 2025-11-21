@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: ChatServer
+Class-Path: .
+Created-By: LAN Chat Application
